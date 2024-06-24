@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\engmu\\source\\repos\\WebApplicationMotorBazaar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55A3F147-962D-44B9-8E75-9DF718937902}|..\\..\\..\\Desktop\\webservice\\WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\engmu\\desktop\\webservice\\windowsformsapp1\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A3F147-962D-44B9-8E75-9DF718937902}|..\\..\\..\\Desktop\\webservice\\WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\engmu\\desktop\\webservice\\windowsformsapp1\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A3F147-962D-44B9-8E75-9DF718937902}|..\\..\\..\\Desktop\\webservice\\WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\engmu\\desktop\\webservice\\windowsformsapp1\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A3F147-962D-44B9-8E75-9DF718937902}|..\\..\\..\\Desktop\\webservice\\WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\engmu\\desktop\\webservice\\windowsformsapp1\\registerform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\engmu\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\engmu\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:17:29.428Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.resx",
+              "DocumentMoniker": "C:\\Users\\engmu\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.resx",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.resx",
+              "ToolTip": "C:\\Users\\engmu\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.resx",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-24T06:16:36.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\engmu\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\engmu\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.Designer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA9wBgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:13:11.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\engmu\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\engmu\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\webservice\\WindowsFormsApp1\\RegisterForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:04:25.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
